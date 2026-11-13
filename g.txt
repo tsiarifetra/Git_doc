@@ -1,0 +1,1 @@
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINLCkTP8baT6T4cotr8eKTZzrXrZCSN20sUjsYYdLTR0 landilalainamandresy@gmail.com
