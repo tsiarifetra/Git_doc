@@ -1,4 +1,8 @@
 Maintenant nous on va parle de branche
 bomm je le fait
 
+<<<<<<< HEAD
 Dans celle ci c'est le branche master
+=======
+voila tu a fait une modification du branche test
+>>>>>>> test
